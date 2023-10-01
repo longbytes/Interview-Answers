@@ -1,5 +1,5 @@
 # Interview-Answers
-Answers to the Data Interview Questions
+This list is the collection of answers to the interview questions in those repositories for [Data Science](https://github.com/longnguyendata/Data-Science-Interview-Questions-Answers) and [Data Engineering](https://github.com/longnguyendata/Data-Engineering-Interview-Questions-Answers).
 
 ## SQL & DB Interview Questions & Answers 
 
