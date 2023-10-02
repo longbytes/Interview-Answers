@@ -7,12 +7,16 @@ For these questions, please check out the book "Ace the Data Science Interview" 
 
 ## SQL & DB Interview Questions & Answers 
 
+### Ace the Data Science Interview book - SQL/DB
+For these questions, please check out the book "Ace the Data Science Interview" (2021, pages 154-180) by Nick Singh and Kevin Huo for the answers.
+
 ### What is the primary key, and why is it important?
 A primary key is a special relational database table column (or combination of columns) designated to uniquely identify all table records. It’s important for several reasons:
 * Uniqueness: A primary key ensures that each record in the table is unique. This means that no two rows in the table can have the same primary key value.
 * Data Integrity: By enforcing uniqueness, primary keys prevent duplicate entries and help to maintain data integrity.
 * Relationships: Primary keys are often used to create relationships between tables. For example, a foreign key in one table could reference the primary key in another table, creating a link between the data in both tables.
 * Efficient Data Retrieval: Databases are often optimized to search and sort by primary key, making data retrieval operations faster and more efficient.
+*For detailed answers, please check out the book "Ace the Data Science Interview" (2021, pages 154-180) by Nick Singh and Kevin Huo for the answers.*
 
 ### How do I choose the right primary key for my table?
 Choosing the right primary key for your table is a critical step in database design. Here are some guidelines to help you make the right choice:
@@ -27,6 +31,7 @@ A foreign key is a column or group of columns in a relational database table tha
 * Relationships Between Tables: Foreign keys enable the creation of relationships between tables (or relations). They can be used to establish various types of data relationships, such as one-to-one, one-to-many, and many-to-many relationships.
 * Data Consistency: By enforcing relationships between tables, foreign keys ensure consistency and accuracy of the data within the database.
 * Query Versatility: They allow you to perform complex queries and obtain meaningful results by joining tables on the foreign key.
+*For detailed answers, please check out the book "Ace the Data Science Interview" (2021, pages 154-180) by Nick Singh and Kevin Huo for the answers.*
 
 ## Data Engineering Interview Questions & Answers 
 ### What is data mesh?
