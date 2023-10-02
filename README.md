@@ -33,6 +33,31 @@ A foreign key is a column or group of columns in a relational database table tha
 * Query Versatility: They allow you to perform complex queries and obtain meaningful results by joining tables on the foreign key.
 *For detailed answers, please check out the book "Ace the Data Science Interview" (2021, pages 154-180) by Nick Singh and Kevin Huo for the answers.*
 
+### Compare Relational Databases vs. NoSQL Databases
+#### Relational Databases (RDBMS):
+**Advantages:**
+* Structured and consistent data storage with ACID properties.
+* Mature, with extensive tools and support.
+* Suitable for complex queries and joins.
+
+**Disadvantages:**
+* May have scalability challenges in high-volume, high-velocity scenarios.
+* Fixed schema can make rapid changes cumbersome.
+* Potential performance issues with big data.
+
+#### NoSQL Databases:
+**Advantages:**
+* Scalable and flexible, often built for large-scale data.
+* Dynamic schema accommodates varied data types.
+* Diverse types (document, columnar, graph, key-value) fit various needs.
+
+**Disadvantages:**
+* Lack of standardization.
+* Weaker consistency models than RDBMS.
+* Not always optimal for complex queries.
+
+*For more detailed answers, please check out the book "Ace the Data Science Interview" (2021, pages 154-180) by Nick Singh and Kevin Huo for the answers.*
+
 ## Data Engineering Interview Questions & Answers 
 ### What is data mesh?
 Data Mesh is a decentralization paradigm. It decentralizes data ownership, transformation, and delivery. It seeks to remove data processing bottlenecks, allowing component-specific teams to produce and manage their datasets. 
