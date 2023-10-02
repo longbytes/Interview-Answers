@@ -28,7 +28,7 @@ A foreign key is a column or group of columns in a relational database table tha
 ### What is data mesh?
 Data Mesh is a paradigm that decentralizes data ownership, transformation, and delivery. It seeks to remove data processing bottlenecks, allowing component-specific teams to produce and manage their datasets. Traditionally, data is treated as a secondary "by-product" and processed by a centralized team. However, this approach can lead to inefficiencies, as these central teams may lack the domain-specific knowledge held by dedicated development teams. Data Mesh aims to address these challenges by distributing data responsibilities more broadly. *(Jacek Majchrzak et al. (2022). Data Mesh in Action. Manning. Chapter 1)*
 
-### How does a data mesh approach differ from traditional centralized data architectures, and what are its main advantages for large-scale organizations?
+### How is data mesh approach different from traditional centralized data architectures?
 A data mesh approach differs from traditional centralized data architectures by decentralizing data ownership, transformation, and delivery. While traditional methods treat data as a secondary "by-product" processed by a central team, Data Mesh allows component-specific teams to produce and manage their datasets directly.
 
 The main advantages for large-scale organizations include:
