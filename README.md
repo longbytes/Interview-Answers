@@ -18,6 +18,18 @@ Imagine you have a coin, and you suspect it's biased, not giving a fair 50-50 ch
 
 The p-value is like a measuring stick for this unusualness. If you get a p-value less than 0.05 (a common threshold), it means that seeing your results (or something more extreme) would happen less than 5% of the time if the coin was truly fair. Thus, you might conclude the coin is biased. However, a low p-value doesn't "prove" the coin is biased; it just means the observed results are unlikely under the assumption of a fair coin.
 
+### Explain the concept of variance and standard deviation
+Variance and standard deviation are statistical measures that quantify the spread or dispersion of a set of data points.
+
+Variance, denoted as $\sigma^2$, measures the average squared deviation from the mean. To compute it, for each data point, subtract the mean, square the result, and then find the average of these squared deviations. In mathematical terms, variance for a set of $n$ values is:
+$$\sigma^2 = \frac{1}{n} \sum_{i=1}^n (x_i - \mu)^2$$
+where $x_i$ are the data points and $\mu$ is the mean.
+
+Standard deviation, denoted as $\sigma$, is the square root of the variance. It measures the average distance between each data point and the mean. In simpler terms, it represents the typical deviation from the mean. It's more interpretable than variance since it's in the same units as the data: 
+$$\sigma = \sqrt{\sigma^2}$$
+
+Both provide insights into data's consistency and volatility, with higher values indicating greater dispersion.
+
 --- 
 ## SQL & DB Interview Questions & Answers 
 
