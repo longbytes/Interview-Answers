@@ -1,5 +1,9 @@
 # Interview-Answers
-This list is the collection of answers to the interview questions in those repositories for [Data Science](https://github.com/longnguyendata/Data-Science-Interview-Questions-Answers) and [Data Engineering](https://github.com/longnguyendata/Data-Engineering-Interview-Questions-Answers).
+This list is the collection of answers to the interview questions in [this repository](https://github.com/longnguyendata/Data-Interview-Questions-Answers).
+
+## Statistics 
+### Ace the Data Science Interview book
+For these questions, please check out the book "Ace the Data Science Interview" (2021, pages 59-76) by Nick Singh and Kevin Huo for the answers.
 
 ## SQL & DB Interview Questions & Answers 
 
